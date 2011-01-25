@@ -1,5 +1,5 @@
 Zoo::Application.routes.draw do
-  resources :animals
+  resources :animals, :foods
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

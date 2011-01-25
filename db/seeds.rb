@@ -5,3 +5,5 @@
 #
 #   cities = City.create([{ :name => 'Chicago' }, { :name => 'Copenhagen' }])
 #   Mayor.create(:name => 'Daley', :city => cities.first)
+
+foods = Food.create([{:name =>'Chips'},{:name => 'Apple'},{:name => 'Hot Dog'},{:name => 'Soda'}])
